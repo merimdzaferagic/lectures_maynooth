@@ -2,3 +2,5 @@ title: Maynooth University Lectures
 # description: Hacker is a theme for GitHub Pages.
 show_downloads: false
 theme: jekyll-theme-hacker
+github:
+  is_project_page: false
